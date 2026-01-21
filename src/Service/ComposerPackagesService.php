@@ -36,12 +36,12 @@ use Symfony\Component\Form\FormInterface;
 final class ComposerPackagesService
 {
     /**
-     * @var string
+     * @var literal-string
      */
     public const CMS_VERSIONS_GROUP = 'TYPO3 CMS Versions';
 
     /**
-     * @var string
+     * @var literal-string
      */
     public const SPECIAL_VERSIONS_GROUP = 'Special Version Selectors';
 
